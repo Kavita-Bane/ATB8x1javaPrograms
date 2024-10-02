@@ -1,6 +1,6 @@
 package ex_18092024;
 
-public class Lab036_DecrementOperator {
+public class Lab039_DecrementOperator {
     public static void main(String[] args) {
         int a=10;
         int result= a--;
